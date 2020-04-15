@@ -1,2 +1,2 @@
-# Resume_portfloio
-My Portfolio that gives insight about my work and projects
+# menitakoonani.github.io
+A place to find all my work (under development)
